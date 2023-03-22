@@ -38,7 +38,7 @@ app.get("/notes", function (req, res) {
     res.sendFile(path.join(__dirname, "/public/notes.html"));
 });
 
-//function to start the Port
+//function to start the PORT
 app.listen(PORT, function () {
     console.log(`\nServer running on port ${PORT}. Visit http://localhost:${PORT}`);
 });
