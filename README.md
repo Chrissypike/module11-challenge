@@ -15,7 +15,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
  - The note appears in the right hand column when I click on an existing note from the left hand column
  - I am presented with empty fields to enter a new note title and its content in the right hand column when I click on the Write icon in the the navigation at the top of the page
  
- ##Mock-Up
+ ## Mock-Up
  
 ![11-express-homework-demo-01](https://user-images.githubusercontent.com/115738225/226959248-e32d0e23-d89f-4d9d-b1e6-52e207e08e10.png)
 
